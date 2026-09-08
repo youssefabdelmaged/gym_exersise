@@ -5,7 +5,7 @@
     A modern, fully responsive React fitness application designed to help you discover the most effective exercises, target specific muscle groups, and view instructional YouTube videos for your workouts!
     <br />
     <br />
-    <a href="https://youssefabdelmaged.github.io/gym_exersise"><strong>View Live Demo »</strong></a>
+    <a href="https://gym-exercises-umber.vercel.app"><strong>View Live Demo »</strong></a>
   </p>
 </div>
 
@@ -41,7 +41,7 @@ Make sure you have Node.js installed. If not, download it from [here](https://no
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/youssefabdelmaged/gym_exersise.git
+   git clone https://github.com/youssefabdelmaged/gym_exercises.git
    ```
 
 2. **Navigate to the project directory:**
