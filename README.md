@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/B7V3lK9.png" alt="Logo" width="100" height="100">
   <h1 align="center">MEGA EXERCISES</h1>
 
   <p align="center">
